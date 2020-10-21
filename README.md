@@ -18,3 +18,10 @@ Interactive Map of San Andreas State. To view information about a specific regio
 Describes the requirements for running the mod and provides download links
 ### Feedback
 Form for suggestions and wishes.
+
+## Screenshots
+To see more screenshots go to the *screenshots* directory.
+
+![Main page](./screenshots/main_page_croped.png)
+
+![Feedback page](./screenshots/feedback_page.png)
